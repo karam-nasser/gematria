@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    background: rgb(13,17,23);
+}
+
+header {
+    height: 62px;
+    background: rgb(22,27,34);
+}
